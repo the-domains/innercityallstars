@@ -1,7 +1,7 @@
 name: innercityallstars
 favicon: null
-layout_spectrum: 0.037585443118587136
-typography_spectrum: 0.06595516460947692
+layout_spectrum: 0.19848
+typography_spectrum: 0.41585
 title: brass.jazz.funk
 cta:
   domain: null
@@ -24,6 +24,6 @@ color:
     - '#a9b9c1'
   brandStrength: 0.11129054659977555
   lightness: 0.34134775470010936
-  saturation: 0.6523809202481061
+  saturation: 0.75
   rhythmicContrast: 0.2907505624461919
 purpose: []
